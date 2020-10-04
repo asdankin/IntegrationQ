@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+.vs/
+IntegrationQ.Core/bin/
+IntegrationQ.Core/obj/
+IntegrationQ.Distributor/bin/
+IntegrationQ.Distributor/obj/
+IntegrationQ.Processor/bin/
+IntegrationQ.Processor/obj/
+packages/
